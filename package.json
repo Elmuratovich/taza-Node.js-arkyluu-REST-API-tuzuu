@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-rest_api",
+  "version": "1.0.0",
+  "description": "node_js api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "rest"
+  ],
+  "author": "Makhmud Kuzikaev",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
